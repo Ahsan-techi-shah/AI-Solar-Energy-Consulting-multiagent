@@ -1,4 +1,0 @@
-streamlit
-crewai
-groq
-pysqlite3-binary; sys_platform == "linux"
